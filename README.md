@@ -1,4 +1,4 @@
-# MIPS Educational Game for CSE442 semester-long project
+# MIPS Educational Game
 
 Purpose: A web-based game for teaching MIPS to its beginner, such as students in UB CSE341.
 
