@@ -14,7 +14,6 @@ Sprint 3 deployed website: https://hbai.me/sprint3
 
 Trello board: https://hbai.me/trello
 
-Presentation slide: https://hbai.me/442-ppt
 
 # Release Note
 
